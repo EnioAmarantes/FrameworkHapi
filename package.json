@@ -1,0 +1,28 @@
+{
+  "name": "frameworkhapi",
+  "version": "1.0.0",
+  "description": "Exemplo de utilização das ferramentas do Framework Hapi.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnioAmarantes/FrameworkHapi.git"
+  },
+  "keywords": [
+    "hapi",
+    "node",
+    "server"
+  ],
+  "author": "Beatriz Benz, Carlos Eduardo, Enio Amarantes, Raul Val",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnioAmarantes/FrameworkHapi/issues"
+  },
+  "homepage": "https://github.com/EnioAmarantes/FrameworkHapi#readme",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  }
+}
