@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "titulo": "Harry Potter e a pedra filosofal",
+    "autor": "J. K. Rowling"
+  },
+  {
+    "id": 2,
+    "titulo": "Tolkien",
+    "autor": "O Senhor dos Aneis"
+  },
+  {
+    "autor": "Pedro Bandeira",
+    "titulo": "O Mistério da Feiurinha",
+    "id": 3
+  }
+]
