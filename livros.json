@@ -13,5 +13,10 @@
     "autor": "Pedro Bandeira",
     "titulo": "O Mistério da Feiurinha",
     "id": 3
+  },
+  {
+    "autor": "Uncle Bob",
+    "titulo": "O Código Limpo",
+    "id": 4
   }
 ]

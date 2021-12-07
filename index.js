@@ -1,7 +1,6 @@
 'use strict';
 
 const Hapi = require('hapi');
-const Hoek = require('hoek');
 const fs = require('fs');
 const util = require('util');
 
@@ -119,7 +118,7 @@ const init = async () => {
     console.log(`Servidor escutando em %s`, server.info.uri);
 };
 
-//Middleware do framework para captura de erros
+//Plugin do framework para captura de erros
 process.on('unhandledRejection', (err) => {
     console.log(err);
     process.exit(1);
